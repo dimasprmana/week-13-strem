@@ -34,4 +34,4 @@
 <img src="https://github.com/user-attachments/assets/313bb2c1-62bc-4c7b-9b26-13287cc50003" alt="Soal 4" width="600"/>
 
 ## Untuk Hasilnya
-<img src="https://github.com/user-attachments/assets/3912fda6-9b53-41f3-aef7-73d52e17dd99="600"/>
+<img src="https://github.com/user-attachments/assets/fc554484-8d95-4dc7-80f4-9befe15da50f" alt="Hasil Praktikum" width="600"/>
